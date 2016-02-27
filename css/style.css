@@ -24,7 +24,13 @@ margin-bottom: 5em;
 #footer p{
   margin: 15px 0px 0px 0px;
 }
-
+.btn-success {
+  background-color: #2ecc71;
+  font-weight: 300;
+}
+.btn-success:hover {
+  background-color: #27ae60;
+}
 .social a {
   margin-top: 5px;
   font-size: 28px;
