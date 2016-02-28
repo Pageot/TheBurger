@@ -3,6 +3,9 @@ body {
   font-family: Open Sans, helvetica;
 }
 
+.vertical-spacer{
+  padding: 8em;
+}
 #newsletter{
 margin-bottom: 5em;  
   
