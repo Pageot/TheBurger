@@ -116,3 +116,7 @@ h3 {
 .navbar-transparent .navbar-brand:focus {
   color: white;
 }
+
+#mc_embed_signup{
+  margin-bottom: 5em;
+}
